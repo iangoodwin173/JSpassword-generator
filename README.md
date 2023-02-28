@@ -6,3 +6,6 @@ This repository contains the code for a JavaScript password generator with four 
 
 
 
+Link to deployed application: https://iangoodwin173.github.io/JSpassword-generator/
+
+Link to GitHub Repository: https://github.com/iangoodwin173/JSpassword-generator
